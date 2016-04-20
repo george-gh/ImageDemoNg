@@ -1,0 +1,43 @@
+body {
+  margin-left: 65px;
+  // margin: 40px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  background-image: url('https://static.pexels.com/photos/6676/landscape-sunset-blue-sunrise.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center; 
+}
+
+.image-choice {
+	margin: 0px 2px 5px 158px;
+	padding: 12px;
+	border: 1px solid grey;
+	background: #FEC;
+	width: 35%;
+}
+
+.input-image {
+	margin-left: 2%;
+
+	input {
+		width: 560px;
+	}
+}
+
+.image {
+	margin-left: 5%;
+}
+
+.info-url {
+	border: 1px solid grey;
+	background: #FEC;
+	width: 50%;
+	padding-left: 10px;
+	padding-bottom: 8px;
+	margin-left: 5%;
+}
+
+.reset-btn {
+	margin-left: 40%
+}
